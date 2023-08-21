@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 25.0.1706.3
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "桌面宠物", "桌面宠物\桌面宠物.csproj", "{BD2D1F87-218E-48A0-B53A-35670D8A6A38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "重岳", "桌面宠物\重岳.csproj", "{BD2D1F87-218E-48A0-B53A-35670D8A6A38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
